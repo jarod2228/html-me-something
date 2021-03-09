@@ -1,0 +1,44 @@
+header {
+    border: 10px double red;
+    margin: 50px 200px 50px 200px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom; 10px;
+}
+
+main {
+    margin: 50px 200px 50px 200px;
+}
+
+h2 {
+    border: 6px double red;
+    text-align: center;
+    text-shadow: 1px 1px green;
+    font-size: 30px;
+}
+
+h3 {
+    border: 6px double red;
+    text-align: center;
+    font-size: 30px;
+}
+
+body {
+    background-color: snow;
+    border: 10px solid skyblue;
+    background-image: url(https://www.dreadcentral.com/wp-content/uploads/2020/09/Loch-Ness-Monster-Escape-1.jpg);
+    background-size: contain;
+}
+
+.alarming {
+    text-align: center;
+    color:#3C2727;
+}
+
+p {
+    font-size: 20px;
+}
+
+#emboldened {
+    font-weight: bold;
+}
