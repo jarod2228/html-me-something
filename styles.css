@@ -17,10 +17,23 @@ h2 {
     font-size: 30px;
 }
 
+#salad-machine {
+    float: left;
+    margin-top: 135px;
+    margin-right: 20px;
+}
+
+#kermit-quote-paragraph {
+    margin-top: 150px;
+}
+
 h3 {
     border: 6px double red;
     text-align: center;
     font-size: 30px;
+}
+#room-for-drawing {
+    margin-top: 150px;
 }
 
 body {
@@ -28,6 +41,7 @@ body {
     border: 10px solid skyblue;
     background-image: url(https://www.dreadcentral.com/wp-content/uploads/2020/09/Loch-Ness-Monster-Escape-1.jpg);
     background-size: contain;
+    font-size: 20px;
 }
 
 .alarming {
@@ -41,4 +55,8 @@ p {
 
 #emboldened {
     font-weight: bold;
+}
+
+aside {
+    float: right;
 }
